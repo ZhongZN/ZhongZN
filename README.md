@@ -23,7 +23,7 @@ Hello, I'm [ZhongZN](https://zn.ax), I'm a/an
 
 - 💻 **Strange computer hobbyist**｜Designed and wrote [ZFonts Plugin](https://zn.ax/zfonts.html) by myself
 - 🔠 **Strange English hobbyist** | Have won more than **5** awards for **English** (🥇🥈🥉).
-- 🔥 **Oops,there seems to be nothing else**
+- 👁‍🗨 **Oops,there seems to be nothing else**
 
 #### Languages and Tools
 
