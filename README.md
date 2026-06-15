@@ -22,7 +22,7 @@ The project has not been open-sourced currently.
 
 #### About [ZFonts-Plugin](https://github.com/zhongzn/zfonts):
 ZFonts is a proprietary, commercial plugin designed for the Typecho blogging platform. It is intended for website typography enhancement and font customization. The plugin provides multiple font sources, including cloud font libraries, Google Fonts, Youziku Fonts, and user-uploaded fonts, enabling bloggers to improve and personalize the typography of their websites.<br><br>
-Starting in 2024, ZFonts-Plugin has removed domain-based license verification. The final version without license validation was provided to all licensed users through the original user group. The ZFonts_Plugin licensing website has been decommissioned on September 1, 2025, and all technical support for the plugin has officially ceased on January 1, 2026.
+Starting in 2024, ZFonts-Plugin has removed domain-based license verification. The final version without license validation was provided to all licensed users through the original user group. The ZFonts-Plugin licensing website has been decommissioned on September 1, 2025, and all technical support for the plugin has officially ceased on January 1, 2026.
 
 #### Sponsor
 If you would like to sponsor my work, please move to [ZhongZN的爱发电主页](https://afdian.com/a/zhongznx).
